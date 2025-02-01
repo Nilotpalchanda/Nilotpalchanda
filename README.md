@@ -1,4 +1,4 @@
-# 🙏নমস্কার (Nomoshkar )🙏:
+# 🙏নমস্কার (Nomoshkar )🙏
 I'm Nilotpal chanda, Front-end developer from India.<br><br>💻 Front End Developer with 8 years of experience<br><br>🚀 Skilled in HTML, CSS, and JavaScript<br><br>🌐 Proficient with modern frameworks like React and Angular<br><br>🎨 Passionate about creating intuitive user interfaces<br><br>🛠 Experienced in responsive design and cross-browser compatibility<br><br>🌱 Constantly learning and adopting new technologies<br><br> 🧩 Adept at problem-solving and debugging complex issues<br><br>📊 Strong understanding of UI/UX principles and best practices<br><br>🏆 Proven track record of successful project completions<br>
 
 
